@@ -48,7 +48,7 @@
 ### Links
 
 - Walkthrough Video:
-- GitHub:
+- GitHub Repo: https://github.com/ikaera/IE-ReadME-Gen
 
 ## Credits
 
