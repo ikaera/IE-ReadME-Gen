@@ -3,16 +3,6 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const inquirer = require('inquirer');
 const fs = require('fs/promises');
 
-// 'What is the Project-Title?',
-// 'What is Description[User Story]?',
-// 'Table of Contents?',
-// 'Installation?',
-// 'What is the Usage[Acceptance Criteria] (including screensot and/or demo) and What Features were used?',
-// 'License?',
-// 'Contirbuting?',
-// 'Tests?',
-// 'Questions?'
-
 // TODO: Create an array of questions for user input
 const questions = [
   {
