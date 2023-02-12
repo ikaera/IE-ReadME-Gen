@@ -1,12 +1,18 @@
 # IE-ReadME-Gen
 
-User Story
+## Description
 
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+- AS A developer I WANT a README generator,
+  - SO THAT I can quickly create a professional README for a new project.
 
-## Acceptance Criteria
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
 
 GIVEN a command-line application that accepts user input
 
