@@ -1,6 +1,4 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+# IE-ReadME-Gen
 
 User Story
 
@@ -53,3 +51,5 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+<!-- [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) -->
