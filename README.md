@@ -43,11 +43,11 @@
 
 ### Demo
 
-![alt text](assets/images/screenshot.png)
+![alt text](./assets/Demo-IE-ReadME-Gen.gif)
 
 ### Links
 
-- Walkthrough Video:
+- Walkthrough Video: https://youtu.be/bA9FilXCu_M
 - GitHub Repo: https://github.com/ikaera/IE-ReadME-Gen
 
 ## Credits

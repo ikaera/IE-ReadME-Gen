@@ -1,10 +1,10 @@
-# zzzzzzzzzzzzz
+# Eradze
   <a href = 'https://opensource.org/licenses/Apache-2.0'> <img src = "https://img.shields.io/badge/license-Apache License 2.0-blue.svg">
   </a>
 
   ## Description
 
-  aaaaa
+  My Description
 
   ## Table of Contents
 
@@ -33,7 +33,7 @@
 
   ## Features
 
-    - 
+    - Node, JavaScript.
 
   ## Contributing (How to Contribute)
 
@@ -45,6 +45,6 @@
   ## Questions  
 
   Please, reach me with additional questions:
-  - Email: ikaera@gmail.com
-  - GitHub: <a href = 'https://github.com/ikaera'> ikaera
+  - Email: ika@gmail.com
+  - GitHub: <a href = 'https://github.com/Ikaera'> Ikaera
   </a>
