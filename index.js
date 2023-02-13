@@ -23,7 +23,9 @@ const questions = [
     message:
       'Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: (1)What was your motivation? (2) Why did you build this project? (3)  What problem does it solve? (4) What did you learn?',
     // default: ,
-    // validate: ,
+    validate: answer => {
+      return answer === '' ? 'Please enter a description.' : true;
+    },
   },
   {
     type: 'checkbox',
@@ -34,7 +36,7 @@ const questions = [
   },
   {
     type: 'input',
-    name: '[Installation](#installation)',
+    name: 'installation',
     message:
       'What are the steps required to install the project? Provide a step-by-step description of how to get the development environment running, please.',
     default: '',
@@ -52,13 +54,13 @@ const questions = [
 
   {
     type: 'input',
-    name: 'cresits',
+    name: 'credits',
     message:
       'List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.If you followed tutorials, include links to those here as well.',
     default: '',
   },
   {
-    type: 'checkbox',
+    type: 'list',
     name: 'license',
     message: 'Choose an open source license, please.',
     choices: [
@@ -117,11 +119,10 @@ inquirer
     console.log(answers);
     const markdown = generateMarkdown(answers);
     console.log(markdown);
-    const fileName = `${answers.title.toLowerCase().split(' ').join('')}.md`;
+    // const fileName = `${answers.title.toLowerCase().split(' ').join('')}.md`;
 
-    return fs.writeFile(`./output/${fileName}`, markdown);
+    return fs.writeFile(`./output/README.md`, markdown);
   })
-  .then()
   .catch(error => {
     console.error(error);
     // if (error.isTryError) {
