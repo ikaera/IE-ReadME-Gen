@@ -121,6 +121,7 @@ inquirer
 
     return fs.writeFile(`./output/${fileName}`, markdown);
   })
+  .then()
   .catch(error => {
     console.error(error);
     // if (error.isTryError) {
