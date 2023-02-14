@@ -1,10 +1,10 @@
-# g
-  <a href = 'https://opensource.org/licenses/Apache-2.0'> <img src = "https://img.shields.io/badge/license-Apache License 2.0-blue.svg">
+# irakli
+  <a href = 'https://opensource.org/licenses/MIT'> <img src = "https://img.shields.io/badge/license-MIT License-blue.svg">
   </a>
 
   ## Description
 
-  g
+  d
 
   ## Table of Contents
 
@@ -15,25 +15,27 @@
 
   ## Installation
 
-  
+  a
 
   ## Usage
 
-  
+  a
 
   ## Credits
 
-  
+  a
 
   ## License
 
-  <a href = 'https://opensource.org/licenses/Apache-2.0'> Apache License 2.0 </a>
+  <a href = 'https://opensource.org/licenses/MIT'> MIT License </a>
 
-  <p> Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. </p>
+  <p>  The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
+    
+    https://opensource.org/licenses/MIT </p>
 
   ## Features
 
-    - 
+    - a
 
   ## Contributing (How to Contribute)
 

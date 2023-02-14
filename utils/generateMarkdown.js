@@ -19,7 +19,7 @@ function renderLicenseLink(license) {
   } else if (license === 'MIT License') {
     return 'https://opensource.org/licenses/MIT';
   } else if (license === 'GNU General Public License v3.0') {
-    return 'https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0';
+    return 'https://www.gnu.org/licenses/gpl-3.0';
   } else return '';
 }
 
@@ -44,6 +44,7 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  // console.log(data.license);
   return `# ${data.title}
   <a href = '${renderLicenseLink(
     data.license,
