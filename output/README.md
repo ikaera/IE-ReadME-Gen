@@ -1,10 +1,10 @@
-# irakli
-  <a href = 'https://opensource.org/licenses/MIT'> <img src = "https://img.shields.io/badge/license-MIT License-blue.svg">
+# Goga
+  <a href = 'https://www.gnu.org/licenses/gpl-3.0'> <img src = "https://img.shields.io/badge/license-GNU General Public License v3.0-blue.svg">
   </a>
 
   ## Description
 
-  d
+  Discription
 
   ## Table of Contents
 
@@ -27,15 +27,18 @@
 
   ## License
 
-  <a href = 'https://opensource.org/licenses/MIT'> MIT License </a>
+  <a href = 'https://www.gnu.org/licenses/gpl-3.0'> GNU General Public License v3.0 </a>
 
-  <p>  The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
-    
-    https://opensource.org/licenses/MIT </p>
+  <p>  GNU GENERAL PUBLIC LICENSE
+    Version 3, 29 June 2007    
+    Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>    
+    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. 
+
+    https://www.gnu.org/licenses/gpl-3.0 </p>
 
   ## Features
 
-    - a
+    - 
 
   ## Contributing (How to Contribute)
 

@@ -1,5 +1,8 @@
 # IE-ReadME-Gen
 
+<a href = 'https://www.gnu.org/licenses/gpl-3.0'> <img src = "https://img.shields.io/badge/license-GNU General Public License v3.0-blue.svg">
+</a>
+
 ## Description
 
 - AS A developer I WANT a README generator,
@@ -52,7 +55,18 @@
 
 ## Credits
 
+N/A
+
 ## License
+
+<a href = 'https://www.gnu.org/licenses/gpl-3.0'> GNU General Public License v3.0 </a>
+
+  <p>  GNU GENERAL PUBLIC LICENSE
+    Version 3, 29 June 2007    
+    Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>    
+    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+    https://www.gnu.org/licenses/gpl-3.0 </p>
 
 <!--
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/). -->
