@@ -32,12 +32,10 @@ function renderLicenseSection(license) {
     return ` GNU GENERAL PUBLIC LICENSE
     Version 3, 29 June 2007    
     Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>    
-    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. 
-
+    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
     https://www.gnu.org/licenses/gpl-3.0`;
   } else if (license === 'MIT License') {
-    return ` The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
-    
+    return ` The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT)[6] in the late 1980s.[7] As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.    
     https://opensource.org/licenses/MIT`;
   } else return '';
 }
@@ -78,11 +76,11 @@ function generateMarkdown(data) {
 
   <a href = '${renderLicenseLink(data.license)}'> ${data.license} </a>
 
-  <p> ${renderLicenseSection(data.license)} </p>
+  ${renderLicenseSection(data.license)}
 
   ## Features
 
-    - ${data.features}
+  - ${data.features}
 
   ## Contributing (How to Contribute)
 
